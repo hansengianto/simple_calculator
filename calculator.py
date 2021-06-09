@@ -1,8 +1,7 @@
 print("""==============================================
 SIMPLE CALCULATOR V0.1
 Created By Hansen Gianto
-Language : Python 3.9
-Os : Windows 10
+Language : Python
 ==============================================
 * = Kali
 / = Bagi
